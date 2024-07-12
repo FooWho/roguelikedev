@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 
 import tcod
+import tcod.ecs
+
 
 def main() -> None:
     screen_width = 80

@@ -1,2 +1,3 @@
 tcod>=11.13
+tcod-ecs>=5.1
 numpy>=1.18
